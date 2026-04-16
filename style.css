@@ -1,0 +1,151 @@
+body {
+    font-family: sans-serif;
+}
+
+header img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    left: 15px;
+}
+
+header p{
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 30px double yellow ;
+    color: aqua;
+}
+
+.rob{
+    position:absolute;
+    left:600px;
+}
+
+header{
+    background-image: linear-gradient(blue,lightblue);
+
+}
+
+h1 {
+    border-top: 20px solid black;
+    border-bottom: 20px solid aqua;
+    text-align: center;
+}
+
+h2,h3,h4{
+    text-align: center;
+}
+
+img{
+     width: 200px;
+    height: 200px;
+    opacity: 0.5;
+}
+
+.stop{
+    display:flex;
+}
+
+.log{
+    display: flex;
+}
+
+h3{
+    border-top: 20px solid aqua;
+}
+
+.rek{
+    display: flex;
+}
+
+h4{
+    border-top: 20px solid aqua;
+}
+
+.wer{
+    display: flex;
+}
+
+h5{
+    text-align: center;
+    border-top: 20px solid aqua;
+}
+
+.werty{
+    display: flex;
+}
+
+h6{
+    font-size: 20px;
+    text-align: center;
+    border-top: 20px solid aqua;
+}
+
+.h7{
+    font-size: 20px;
+    text-align: center;
+    border-top: 20px solid black;
+    border-bottom: 20px solid aqua;
+}
+
+.vid{
+    display: flex;
+    border: 10px double blue;
+}
+
+.vid:hover{
+    border: 20px double yellow;
+    background-color: blue;
+    transition: 1s;
+}
+
+img:hover{
+    opacity: 1;
+    border:10px double blue;
+    transition: 2s;
+}
+
+.veb{
+    display: flex;
+    border: 10px double blue;
+}
+
+.veb:hover{
+    border: 20px double yellow;
+    background-color: blue;
+    transition: 1s;
+}
+
+.abc{
+    display: flex;
+    border: 10px double blue;
+}
+
+.abc:hover{
+    border: 20px double yellow;
+    background-color: blue;
+    transition: 1s;
+}
+
+.fot{
+    display: flex;
+    border: 20px double yellow;
+    font-size: 19px;
+}
+
+footer p{
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    border: 20px double yellow;
+}
+
+footer p:hover{
+    border: 20px double blue;
+    transition: 1s;
+}
+
+
+
+
